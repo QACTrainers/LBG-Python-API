@@ -1,6 +1,15 @@
-# REST API starter
+#
 
-This application is the start point for Sprint 1 of the Lloyds Bank Group Modern Engineering Bootcamp Project Specification.
+
+we hope we trust we want this to work 
+In Money We Trust
+
+
+THIS IS A TEST WITH A NEW CHANGE BY BR 
+
+ REST API starter
+
+This is a Python Flask REST API, serving a simple frontend for use in LBG programs
 
 ## Installation
 
@@ -16,7 +25,7 @@ In order to run the application, from your git bash terminal run:
 
 ~~~ bash
 python lbg.py
-API Listening on http://localhost:8080
+API Listening on http://localhost:8080/index.html
 ~~~
 
 ## Stopping the application
